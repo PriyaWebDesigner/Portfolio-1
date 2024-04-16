@@ -9412,7 +9412,9 @@ textarea.form-control {
     text-transform: uppercase; }
 
 .contact-section .contact-form {
-  width: 100%; }
+  width: 100%;
+   border: 2px solid black; 
+}
 
 .contact-section .img {
   width: 100%;
@@ -9435,7 +9437,9 @@ textarea.form-control {
   outline: none !important;
   -webkit-box-shadow: none !important;
   box-shadow: none !important;
-  font-size: 15px; }
+  font-size: 15px;
+  height: 500px; 
+}
 
 .block-21 .blog-img {
   display: block;
